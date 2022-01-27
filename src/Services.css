@@ -1,0 +1,23 @@
+.serivces-overall{
+    background-color: black;
+    color: yellow;
+    height: 37.0rem;
+}
+.services{
+    text-align: center;
+}
+.serivces-text{
+    display: flex;
+    justify-content: space-around;
+}
+.web{
+    margin-left: 30%;
+}
+.pic1{
+    border-radius: 8px;
+    width: 780px;
+    height: 355px;
+    padding-top: 3%;
+    padding-left: 2%;
+    text-align: start;
+}

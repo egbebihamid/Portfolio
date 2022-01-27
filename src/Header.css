@@ -1,0 +1,31 @@
+#navbarScroll{
+    margin-left: 30%;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+#whatapp{
+    margin-left: 3%;
+    color: black;
+}
+Nav :hover{
+    color: yellow;
+}
+
+@media (min-width: 768px) {
+    #navbarScroll{
+        margin-left: 10%;
+    }
+    .link{
+        text-decoration: none;
+        color: black;
+    }
+    #whatapp{
+        margin-left: 3%;
+        color: black;
+    }
+    Nav :hover{
+        color: yellow;
+    }
+}

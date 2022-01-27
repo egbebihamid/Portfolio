@@ -1,0 +1,15 @@
+.about{
+    background-color: black;
+    color: yellow;
+    height: 37.0rem;
+}
+.about-me{
+    text-align: center;
+}
+.about-text{
+    margin-left: 10%;
+}
+.about-text{
+    line-height: 300%;
+    width: 80%;
+}

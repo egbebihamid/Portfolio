@@ -1,0 +1,358 @@
+@media (min-width: 320px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+    .contact-text{
+        padding-left: 5%;
+    }
+    .input-name{
+        width: 16rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 16rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 16rem;
+        height: 5rem;
+    }
+    .input{
+        margin-left: 5%;
+    }
+}
+
+
+@media (min-width: 376px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+    .contact-text{
+        padding-left: 8%;
+    }
+    .input{
+        margin-left: 8%;
+    }
+    .input-name{
+        width: 16rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 16rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 16rem;
+        height: 5rem;
+    }
+}
+
+
+@media (min-width: 420px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+    .contact-text{
+        padding-left: 10%;
+    }
+    .input{
+        margin-left: 10%;
+    }
+    .input-name{
+        width: 16rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 16rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 16rem;
+        height: 5rem;
+    }
+}
+
+
+@media (min-width: 476px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+    .contact-text{
+        padding-left: 10%;
+    }
+    .input{
+        margin-left: 10%;
+    }
+    .input-name{
+        width: 16rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 16rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 16rem;
+        height: 5rem;
+    }
+}
+
+
+@media (min-width: 576px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+    .contact-text{
+        padding-left: 10%;
+    }
+    .input{
+        margin-left: 10%;
+    }
+    .input-name{
+        width: 16rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 16rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 16rem;
+        height: 5rem;
+    }
+}
+
+
+@media (min-width: 768px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+    .contact-text{
+        padding-left: 10%;
+    }
+    .input{
+        margin-left: 10%;
+    }
+    .input-name{
+        width: 16rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 16rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 16rem;
+        height: 5rem;
+    }
+}
+
+
+@media (min-width: 900px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .contact-display{
+        display: flex;
+        justify-content: space-around;
+    }
+    .contact-text{
+        width: 90%;
+        height: vh;
+        padding-left: 10%;
+    }
+    .input{
+        margin-right: 10%;
+    }
+    .input-name{
+        width: 30rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 30rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 30rem;
+        height: 5rem;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+}
+
+
+@media (min-width: 1200px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .contact-display{
+        display: flex;
+        justify-content: space-around;
+    }
+    .contact-text{
+        width: 30%;
+        height: vh;
+        padding-left: 10%;
+    }
+    .input{
+        margin-right: 10%;
+    }
+    .input-name{
+        width: 30rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 30rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 30rem;
+        height: 5rem;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+}
+
+
+@media (min-width: 1400px) { 
+    .over{
+        background-color: black;
+        height: 37.0rem;
+        color: yellow;
+    }
+    .contact{
+        text-align: center;
+        color: yellow;
+    }
+    .contact-display{
+        display: flex;
+        justify-content: space-around;
+    }
+    .contact-text{
+        width: 30%;
+        height: vh;
+        padding-left: 10%;
+    }
+    .input{
+        margin-right: 10%;
+    }
+    .input-name{
+        width: 30rem;
+    }
+    .input-email{
+        margin-top: 2%;
+        width: 30rem;
+    }
+    .input-message{
+        margin-top: 2%;
+        width: 30rem;
+        height: 5rem;
+    }
+    .input button{
+        background-color: yellow;
+        color: black;
+        margin-top: 2%;
+        border-radius: 6%;
+        border-style: none;
+    }
+}
